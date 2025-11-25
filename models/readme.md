@@ -32,6 +32,8 @@
 
 * **y_pred_nn_test.npy** – Saved test predictions from the teacher neural network model.
 
+* **EDA_report.html** - providing data cleaning steps, visualizations, and preliminary insights for the project.
+
 * **readme.md** – Documentation file describing the project.
 
 ---
