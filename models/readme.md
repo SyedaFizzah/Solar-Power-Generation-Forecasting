@@ -1,6 +1,6 @@
 
 
-## Folder Contents (One-Line Descriptions)
+## Folder Contents
 
 * **newfile.ipynb** – Main notebook containing full preprocessing, model training, ensemble stacking, SHAP analysis, and drift detection.
 
@@ -32,7 +32,7 @@
 
 * **y_pred_nn_test.npy** – Saved test predictions from the teacher neural network model.
 
-* **EDA_report.html** - providing data cleaning steps, visualizations, and preliminary insights for the project.
+* **eda_report.html** - providing data cleaning steps, visualizations, and preliminary insights for the project.
 
 * **readme.md** – Documentation file describing the project.
 
